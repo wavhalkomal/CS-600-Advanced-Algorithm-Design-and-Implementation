@@ -1,0 +1,29 @@
+=== Search Engine Query Log ===
+
+Query: machine learning
+  page1.html (score: 12)
+  page2.html (score: 12)
+  page3.html (score: 3)
+  page7.html (score: 1)
+  page9.html (score: 1)
+
+Query: data
+  page1.html (score: 50)
+  page2.html (score: 50)
+  page7.html (score: 1)
+  page5.html (score: 1)
+
+Query: google
+  page1.html (score: 784)
+  page2.html (score: 784)
+
+Query: deep learning
+  page1.html (score: 5)
+  page2.html (score: 5)
+  page4.html (score: 1)
+  page7.html (score: 1)
+  page9.html (score: 1)
+  page3.html (score: 1)
+
+Query: python
+  No results found.
