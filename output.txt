@@ -1,0 +1,51 @@
+=== Search Engine Query Log ===
+
+Query: google
+  page1.html (score: 784)
+  page2.html (score: 784)
+
+Query: machine learning
+  page1.html (score: 12)
+  page2.html (score: 12)
+  page3.html (score: 3)
+  page7.html (score: 1)
+  page9.html (score: 1)
+
+Query: artificial intelligence
+  page1.html (score: 33)
+  page2.html (score: 33)
+
+Query: data
+  page1.html (score: 50)
+  page2.html (score: 50)
+  page7.html (score: 1)
+  page5.html (score: 1)
+
+Query: python
+  No results found.
+
+Query: sql
+  No results found.
+
+Query: file
+  page1.html (score: 1)
+  page10.html (score: 1)
+  page5.html (score: 1)
+  page2.html (score: 1)
+
+Query: technology
+  page1.html (score: 24)
+  page2.html (score: 24)
+  page4.html (score: 9)
+  page5.html (score: 6)
+
+Query: deep learning
+  page1.html (score: 5)
+  page2.html (score: 5)
+  page4.html (score: 1)
+  page7.html (score: 1)
+  page9.html (score: 1)
+  page3.html (score: 1)
+
+Query: java
+  No results found.
